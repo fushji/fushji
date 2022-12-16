@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate and experienced Software Architect</h3>
 
-- 🔭 I’m currently working at [Reply](www.reply.com)
-
-- 🌱 I’m currently learning **Machine Learning, Rust**
-
-- 📝 I write articles on [https://dev.to/fushji](https://dev.to/fushji)
-
-- 📄 Know about my experiences [https://antonioperrone.dev/resume](https://antonioperrone.dev/resume)
+👨‍💻 I’m currently working at [Reply](www.reply.com)
+🌱 I’m currently learning **Machine Learning, Rust**
+📝 I write articles on [https://dev.to/fushji](https://dev.to/fushji)
+📄 Know about my experiences [https://antonioperrone.dev/resume](https://antonioperrone.dev/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
